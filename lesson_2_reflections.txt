@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates a known system for git to track. 
+A hidden file '.git' is added so that commits can be tracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is temporary storage, while working directory and repository are more concrete.  
+The value of the staging area is to see the next checkpoint before officially saving as a checkpoint; it helps create the specifics of the checkpoint.
+
