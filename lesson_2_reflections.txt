@@ -21,3 +21,11 @@ Branches could also help add and test out a whole new feature.
 How do the diagrams help you visualize the branch structure?
 
 They help show what commits are available for each branch.  In other words, what commits will appear when using command 'git log'.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of auto merging: faster, systematic, minimizes human error
+Cons of auto merging: potential misinterpretation, person A and B could both delete a function and replace with their own functionality not caught by the merge
+Pros of manual merging: theoretically reduces errors from incorrect functionality merging.
+Cons of manual merging: slower, could still create human error
+
