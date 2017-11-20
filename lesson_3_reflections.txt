@@ -12,7 +12,7 @@ Branches are on a single repository, clones are a copy of existing repository (c
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+This will reduce conflicts since most changes will be based on this last known state of the remote stored locally.
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
