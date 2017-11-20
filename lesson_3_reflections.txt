@@ -16,7 +16,7 @@ This will reduce conflicts since most changes will be based on this last known s
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+With Git, collaboration includes a lot more prep work to define when people will access work to make updates.  This is easier because we are not using a version control software that all users need to understand.  However, the challenges include not being able to easily merge work, not being able to restore changes to an earlier point, etc.
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
